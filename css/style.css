@@ -9,7 +9,9 @@ body{
     padding: 50px;
 }
 #contato{
-    padding: 50px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    padding: 40px;
 }
 #membros{
     padding: 50px;
@@ -75,13 +77,10 @@ p{
     box-shadow: 0 4px 10px 0 rgba(0,0,0,.16),0 4px 20px 0 rgba(0,0,0,.12)!important;
 }
 .footer{
-    color: white;
-    padding-top: 20px;
+    color: black;
+    padding: 30px;
     margin: 0;
-    background-color:  #696969; 
-}
-.footer-content{
-    color: #E8E8E8;
+    background-color: #EEE9E9; 
 }
 @media (min-width: 1px) and (max-width: 800px){
     div.icon{
