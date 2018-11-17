@@ -13,7 +13,7 @@ body{
 }
 #membros{
     padding: 50px;
-    background-image: linear-gradient(to right, #CFCFCF, #FFFF);
+    background-image: linear-gradient(to right, #CDCDC1, #FFFFFF);
 
 }
 .display{
@@ -73,6 +73,9 @@ p{
 .z-depth-2 {
     -webkit-box-shadow: 0 4px 10px 0 rgba(0,0,0,.16), 0 4px 20px 0 rgba(0,0,0,.12)!important;
     box-shadow: 0 4px 10px 0 rgba(0,0,0,.16),0 4px 20px 0 rgba(0,0,0,.12)!important;
+}
+.footer{
+    background-color:; 
 }
 @media (min-width: 1px) and (max-width: 800px){
     div.icon{
